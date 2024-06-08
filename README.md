@@ -75,9 +75,7 @@ va fi:
 0 0 0 0 0 0
 ```
 
-# Schema de criptare simetrica.
-
-<img src="./encrypt.gif" width="75%"/>
+## Schema de criptare simetrica.
 
 Definim o cheie de criptare (pornind de la o configuratie
 initialaS 0 si ok-evolutie) ca fiind operatia<S 0 , k >, care reprezinta tabloulunidimensionalde
