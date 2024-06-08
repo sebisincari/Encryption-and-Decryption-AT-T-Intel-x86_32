@@ -1,4 +1,4 @@
-### Conway’s Game of Life 
+# Conway’s Game of Life 
 Conway’s Game of Life este unzero-player gamebidimensional, inventat de matematicianul John
 Horton Conway in anul 1970. Scopul acestui joc este de a observa evolutia unui sistem de celule,
 pornind de la o configuratie initiala, introducand reguli referitoare la moartea, respectiv crearea unei
